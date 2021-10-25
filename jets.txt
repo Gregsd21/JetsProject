@@ -1,0 +1,5 @@
+Luxury, Titan, 700, 8000, 50_000_000
+Cargo, Airbus, 560, 9500, 150_000_000
+Cargo, Icarus, 560, 9500, 150_000_000
+Fighter, Starscream, 2302, 20_000, 500_000_000
+Fighter, Skyshark, 2302, 20_100, 80_000_000
